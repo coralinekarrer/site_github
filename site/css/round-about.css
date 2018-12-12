@@ -3,7 +3,9 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-round-about/blob/master/LICENSE)
  */
-
+html {
+        scroll-behavior: smooth;
+}
 
 @media (min-width: 992px) {
 
